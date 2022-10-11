@@ -1,0 +1,1296 @@
+{
+    "title": "Comprehensive Examples",
+    "hash": "comprehensive-examples",
+    "type": "User Manual",
+    "metaDescription": "This has words and things!",
+    "locale": "en-US",
+    "publicationName": "TechCom - UM - Comprehensive Examples",
+    "filters": [
+        {
+            "key": "languages",
+            "label": "Languages",
+            "options": [
+                {
+                    "value": "en-US",
+                    "text": "English"
+                },
+                {
+                    "value": "de-DE",
+                    "text": "Deutsch"
+                }
+            ]
+        },
+        {
+            "key": "models",
+            "label": "Models",
+            "options": [
+                {
+                    "value": "rd-x-1e-a1",
+                    "text": "RD-X-1E-A1"
+                },
+                {
+                    "value": "rd-red-e-e1",
+                    "text": "RD-RED-E-E1"
+                },
+                {
+                    "value": "rd-x0-1-a1",
+                    "text": "RD-X0-1-A1"
+                },
+                {
+                    "value": "rd-xx-e-d1",
+                    "text": "RD-XX-E-D1"
+                },
+                {
+                    "value": "gs-xx-1e-a1",
+                    "text": "GS-XX-1E-A1"
+                },
+                {
+                    "value": "rd-x-1e-a1",
+                    "text": "RD-X-1E-A1"
+                },
+                {
+                    "value": "rd-xx-1e-a1",
+                    "text": "RD-XX-1E-A1"
+                }
+            ]
+        },
+        {
+            "key": "food",
+            "label": "Food",
+            "options": [
+                {
+                    "value": "potatoes",
+                    "text": "Potatoes"
+                },
+                {
+                    "value": "gran-cru-cheese",
+                    "text": "Gran Cru Cheese"
+                }
+            ]
+        }
+    ],
+    "publicationImage": {
+        "url": "//images.ctfassets.net/enhz2tloa31p/6C95SBOl2oLozJJjwQqH7g/680fa04236b1898a02b3b9a62027f053/TC_-_UM_-_Comprehensive_User_Manual_-_PubImg.PNG",
+        "details": {
+            "Size": 576120,
+            "Image": {
+                "Height": 791,
+                "Width": 592
+            }
+        },
+        "width": 592,
+        "height": 791,
+        "fileName": "TC - UM - Comprehensive User Manual - PubImg.PNG",
+        "contentType": "image/png",
+        "type": "TC - UM - Comprehensive UM - PubImg",
+        "title": "TC - UM - Comprehensive UM - PubImg",
+        "alt": "image alt"
+    },
+    "brandImage": {
+        "brandName": "Brand Image - SRAM",
+        "url": "//images.ctfassets.net/enhz2tloa31p/18aBZ7zODHw4TOnYVskTF8/66a165a95df5dbfcf558f860a6b4a73e/SRAM_Logo_red_on_transparent.png",
+        "details": {
+            "Size": 4019,
+            "Image": {
+                "Height": 76,
+                "Width": 592
+            }
+        },
+        "width": 592,
+        "height": 76,
+        "fileName": "SRAM Logo red on transparent.png",
+        "contentType": "image/png",
+        "type": "Brand Image - SRAM - img",
+        "title": "Brand Image - SRAM - img",
+        "alt": "image alt"
+    },
+    "legend": {
+        "id": "1tyiD6Vi4A8V6sIC85d31E",
+        "type": "Legend",
+        "title": "Comprehensive Legend",
+        "titleEmphasis": false,
+        "hash": "comprehensive-legend",
+        "content": [
+            {
+                "name": "Torque",
+                "label": "Torque",
+                "description": "Tighten a faster to a specified value, or apply a tightening force",
+                "url": "//images.ctfassets.net/enhz2tloa31p/3do39Xfyzxf953rLmRNjPi/b168eb7c6f236336df97de974b9d5301/Torque.svg",
+                "details": {
+                    "Size": 275,
+                    "Image": {
+                        "Height": 18,
+                        "Width": 21
+                    }
+                },
+                "width": 21,
+                "height": 18,
+                "fileName": "Torque.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Torque",
+                "alt": "image alt"
+            },
+            {
+                "name": "Remove/Loosen",
+                "label": "Remove/Loosen",
+                "description": "Remove the component as indicated, either by hand or with a specified tool",
+                "url": "//images.ctfassets.net/enhz2tloa31p/7AxoJ6yjKkkEFj3PUT8ByX/6db7b44cf3e5fdd5493c376a3ed20673/Remove.svg",
+                "details": {
+                    "Size": 275,
+                    "Image": {
+                        "Height": 18,
+                        "Width": 21
+                    }
+                },
+                "width": 21,
+                "height": 18,
+                "fileName": "Remove.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Remove",
+                "alt": "image alt"
+            },
+            {
+                "name": "Install",
+                "label": "Install",
+                "description": "Install the component in the indicated position by pressing, inserting, attaching, or placing.",
+                "url": "//images.ctfassets.net/enhz2tloa31p/4XgIrBh0mPQEHME0IU7g1T/001c460f8476273a846ff612b64922af/Install.svg",
+                "details": {
+                    "Size": 275,
+                    "Image": {
+                        "Height": 18,
+                        "Width": 21
+                    }
+                },
+                "width": 21,
+                "height": 18,
+                "fileName": "Install.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Install"
+            },
+            {
+                "name": "Measure",
+                "label": "Measure",
+                "description": "Measure the length or distance to a specified value",
+                "url": "//images.ctfassets.net/enhz2tloa31p/6ZyIKK6eBPSKPzcTDKPSbe/d9555cd5e72fc87d98687a40a474596c/Measure.svg",
+                "details": {
+                    "Size": 275,
+                    "Image": {
+                        "Height": 18,
+                        "Width": 21
+                    }
+                },
+                "width": 21,
+                "height": 18,
+                "fileName": "Measure.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Measure"
+            }
+        ]
+    },
+    "toolList": {
+        "id": "5nFac0LSpNaJT5W0Oue9M5",
+        "type": "ToolList",
+        "title": "Wrench Closed End",
+        "titleEmphasis": false,
+        "hash": "wrench-closed-end",
+        "content": [
+            {
+                "name": "Wrench Closed End",
+                "label": "Friction Paste",
+                "description": "Friction is good for speed",
+                "url": "//images.ctfassets.net/enhz2tloa31p/5fpUJNWOOGLBj621sD5z9/32835de7bd70ac6f2d1a9697537c9122/icon_-_Wrench_Closed_End.svg",
+                "details": {
+                    "Size": 433,
+                    "Image": {
+                        "Height": 18,
+                        "Width": 41
+                    }
+                },
+                "width": 41,
+                "height": 18,
+                "fileName": "icon - Wrench Closed End.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Wrench Closed End"
+            },
+            {
+                "name": "TORX",
+                "label": "TORX",
+                "description": "Use this for loosening Stuff",
+                "url": "//images.ctfassets.net/enhz2tloa31p/7fbjcy0zIPuhPm5rLLgvfI/4a2b9ea29592499a3b361f0b4c408b5d/icon_-_TORX.svg",
+                "details": {
+                    "Size": 391,
+                    "Image": {
+                        "Height": 19,
+                        "Width": 22
+                    }
+                },
+                "width": 22,
+                "height": 19,
+                "fileName": "icon - TORX.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "TORX"
+            },
+            {
+                "name": "Socket",
+                "label": "Socket",
+                "description": null,
+                "url": "//images.ctfassets.net/enhz2tloa31p/5TJo2yRbOI8o0ndKcso7Od/651a386469b70ea40b5494e20e65fa4c/icon_-_Socket.svg",
+                "details": {
+                    "Size": 1815,
+                    "Image": {
+                        "Height": 20,
+                        "Width": 20
+                    }
+                },
+                "width": 20,
+                "height": 20,
+                "fileName": "icon - Socket.svg",
+                "contentType": "image/svg+xml",
+                "type": "icon",
+                "title": "Socket"
+            }
+        ]
+    },
+    "modules": [
+        {
+            "id": "39xXYIXof8VjVifay3aghe",
+            "title": "Comprehensive Legend",
+            "hash": "comprehensive-legend_1",
+            "filters": [],
+            "children": [
+                {
+                    "id": "7sVwWi7dPEkgGgA8ksHigV",
+                    "type": "Legend",
+                    "title": "TC-Comprehensive Legend - Block",
+                    "titleEmphasis": false,
+                    "hash": "tc-comprehensive-legend-block",
+                    "content": [
+                        {
+                            "name": "Icon-Legend-Torque",
+                            "label": "Torque",
+                            "description": "Tighten a fastener to a specified value, or apply a tightening force.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/2hZQ04sjc6R7udw5qHf8K1/c1f417493d81c419d527d1c87a31f441/Torque.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Torque.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Icon-Legend-Torque"
+                        },
+                        {
+                            "name": "Icon-Legend-FrictionPaste",
+                            "label": "Friction Paste",
+                            "description": "Apply friction paste to prevent movement between surfaces.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/6naqYC6rj7cJYVVU45vbRf/b45efd62e1c96d7b4eae85c3f3fd39eb/FrictionPaste.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "FrictionPaste.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "FrictionPaste"
+                        },
+                        {
+                            "name": "Icon-Legend-Remove",
+                            "label": "Icon-Legend-Remove",
+                            "description": "Remove the component as indicated, either by hand or with a specified tool.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4DFOh5pmQNTVbYravB21Ne/bc0f7d589491205008af794bbc02a980/Remove.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Remove.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Remove"
+                        },
+                        {
+                            "name": "Icon-Legend-Install",
+                            "label": "Install",
+                            "description": "Install the component in the indicated position by pressing, attaching, or placing.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4XgIrBh0mPQEHME0IU7g1T/001c460f8476273a846ff612b64922af/Install.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Install.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Install"
+                        },
+                        {
+                            "name": "Icon-Legend-Measure",
+                            "label": "Measure",
+                            "description": "Measure a length or distance to a specified value.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/6LUMmwDM5JWF1ghzklouIH/2e80491f37efcfee6ada0c373f27a195/Measure.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Measure.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Measure"
+                        },
+                        {
+                            "name": "Icon-Legend-Grease",
+                            "label": "Grease",
+                            "description": "Apply grease to lubricate and protect components from friction and/or moisture.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4J2P0Sqh8fZqwuMNGXjZjG/9c32a43972c1dbaca92eeeec8ecab5af/Grease.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Grease.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Grease"
+                        },
+                        {
+                            "name": "Icon-Legend-Adjust",
+                            "label": "Adjust",
+                            "description": "Adjust the component to the indicated position by moving, sliding, or rotating.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/ly7SW2e9WtBJT5Dm09Fe7/18c8f65efce219fa0db74c26bb2a4b31/Adjust.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Adjust.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Adjust"
+                        }
+                    ]
+                },
+                {
+                    "id": "6lZvNNQcNy15vZdHjoyx28",
+                    "type": "block",
+                    "title": "External Refrence",
+                    "titleEmphasis": false,
+                    "hash": "external-refrence",
+                    "content": [
+                        {
+                            "url": "https://www.sram.com/en/sram",
+                            "description": "Sram home page",
+                            "type": "externalRefrence",
+                            "title": "Sram Home Page"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "51TEfcBbHkJsIn7ORXgVRp",
+            "title": "Comprehensive Examples - Signal Words",
+            "hash": "comprehensive-examples-signal-words",
+            "filters": [],
+            "children": [
+                {
+                    "id": "3sfVG5CkFP4J2sPNdXCjze",
+                    "type": "block",
+                    "title": "TechCom - UM - Comprehensive Examples - Signal Word Text",
+                    "titleEmphasis": true,
+                    "hash": "techcom-um-comprehensive-examples-signal-word-text",
+                    "content": [
+                        {
+                            "noticeType": "notice",
+                            "content": "<p><a href=\"https://www.wikihow.com/Ride-a-Bicycle\" title=\"\">Scratches on the air</a> spring shaft can cause air to leak. If a scratch is visible the air spring assembly may need to be replaced.</p>",
+                            "type": "notice",
+                            "title": "Notice"
+                        },
+                        {
+                            "noticeType": "eyehazard",
+                            "content": "<p>Verify all pressure is removed from the fork before proceeding. Failure to do so can result in injury and/or damage to the fork. Wear safety glasses.</p>",
+                            "type": "notice",
+                            "title": "EyeHazard"
+                        },
+                        {
+                            "noticeType": "warning",
+                            "content": "<p>Verify all pressure is removed from the fork before proceeding. Depress the Schrader valve again to remove any remaining air pressure. Failure to do so can result in injury and/or damage to the fork.</p>",
+                            "type": "notice",
+                            "title": "Warning"
+                        },
+                        {
+                            "step": "NotAStep",
+                            "content": "<p>Embedded Signal Words</p><p><figure class=\"s-notice s-notice-notice\"><figcaption class=\"s-notice-header\">Notice</figcaption><div class=\"s-notice-content\"><p>Do not scratch the inside of the upper tube. Scratches will allow air to bypass the seals resulting in reduced spring performance.</p></div></figure></p><p><figure class=\"s-notice s-notice-warning\"><figcaption class=\"s-notice-header\">Warning</figcaption><div class=\"s-notice-content\"><p>don&#39;t fall off your bike</p></div></figure></p><p></p><p></p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "TechCom - UM - TechCom Demo Publication - Embedded Signal Words"
+                        },
+                        {
+                            "step": "NotAStep",
+                            "content": "<p></p><table><tr><th><p>Header</p></th><th><p>header</p></th><th><p>header</p></th></tr><tr><td><p>value</p></td><td><p>val</p></td><td><p>val</p></td></tr><tr><td><p>value</p></td><td><p>val</p></td><td><p>val</p></td></tr></table><p></p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "Example Table"
+                        },
+                        {
+                            "url": "https://www.wikihow.com/Ride-a-Bicycle",
+                            "description": "Get ready to fall",
+                            "type": "externalRefrence",
+                            "title": "How to ride a bike"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7xDl6wXUMT57yW6tHrkG0Y",
+            "title": "Comprehensive Examples - Text Blocks",
+            "hash": "comprehensive-examples-text-blocks",
+            "filters": [],
+            "children": [
+                {
+                    "id": "4qhyOfloPayxjVY5ozvyCA",
+                    "type": "block",
+                    "title": "Comprehensive Examples - Elements",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-examples-elements",
+                    "content": [
+                        {
+                            "step": "not a step",
+                            "content": "<p>The following <em>elements </em>show 3 images <u>associated </u>with one step, <strong>not 3 individual steps</strong></p><ol><li><p>one</p></li><li><p>two</p></li><li><p>three</p></li></ol><ul><li><p>bullet</p></li><li><p>bullet 2</p></li></ul><p></p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "Comprehensive Examples - Block - Text intro for image elements"
+                        },
+                        {
+                            "step": "Step",
+                            "content": "<p>Loosen each Flight Attendant Control Module set screw.</p><p>Do not remove the set screws.</p>",
+                            "images": [
+                                {
+                                    "imageName": "RS - SM - FA - IMG 7449",
+                                    "caption1": "2 mm",
+                                    "caption1color": "Black",
+                                    "caption2": null,
+                                    "caption2color": null,
+                                    "caption3": null,
+                                    "caption3color": null,
+                                    "url": "//images.ctfassets.net/enhz2tloa31p/5gStM6JWOiqVyeZWQZAMGm/fed32b54fb9e8a21b171b6c604db739e/IMG_7449.JPG",
+                                    "details": {
+                                        "Size": 406738,
+                                        "Image": {
+                                            "Height": 1709,
+                                            "Width": 2564
+                                        }
+                                    },
+                                    "width": 2564,
+                                    "height": 1709,
+                                    "fileName": "IMG_7449.JPG",
+                                    "contentType": "image/jpeg",
+                                    "type": "image",
+                                    "title": "RS - SM - FA - IMG 7449",
+                                    "alt": "image alt"
+                                },
+                                {
+                                    "imageName": "RS - SM - FA - IMG 7450",
+                                    "caption1": "2 mm",
+                                    "caption1color": null,
+                                    "caption2": null,
+                                    "caption2color": null,
+                                    "caption3": null,
+                                    "caption3color": null,
+                                    "url": "//images.ctfassets.net/enhz2tloa31p/77hAjIFMvNg7GroUEGCTe7/f16c527c56fabb6d89b6870af89f56f5/IMG_7450.JPG",
+                                    "details": {
+                                        "Size": 248809,
+                                        "Image": {
+                                            "Height": 1259,
+                                            "Width": 1888
+                                        }
+                                    },
+                                    "width": 1888,
+                                    "height": 1259,
+                                    "fileName": "IMG_7450.JPG",
+                                    "contentType": "image/jpeg",
+                                    "type": "image",
+                                    "title": "RS - SM - FA - IMG 7450",
+                                    "alt": "image alt"
+                                }
+                            ],
+                            "type": "text",
+                            "title": "Flight Attendant Control Module Removal 3"
+                        },
+                        {
+                            "url": "https://www.sram.com/en/sram",
+                            "description": "Our Website",
+                            "type": "externalRefrence",
+                            "title": "Sram"
+                        }
+                    ]
+                },
+                {
+                    "id": "yzlIPUkqeYYjKVlfIsuKQ",
+                    "type": "block",
+                    "title": null,
+                    "titleEmphasis": false,
+                    "hash": null,
+                    "content": [
+                        {
+                            "step": "NotAStep",
+                            "content": "",
+                            "images": [
+                                {
+                                    "videoName": "Video Clip",
+                                    "thumbnail": null,
+                                    "url": "//videos.ctfassets.net/enhz2tloa31p/63F9aRF27q1tVXoTYhsr6g/997214715a98eba403f997d5f6a30f72/Extrusion_1_-_Dies.mp4",
+                                    "details": {
+                                        "Size": 9079628,
+                                        "Image": null
+                                    },
+                                    "width": null,
+                                    "height": null,
+                                    "fileName": "Extrusion 1 - Dies.mp4",
+                                    "contentType": "video/mp4",
+                                    "type": "video",
+                                    "title": "Video Clip"
+                                }
+                            ],
+                            "type": "text",
+                            "title": "video clip"
+                        }
+                    ]
+                },
+                {
+                    "id": "1VnlD3kD1mfTwhMj2rMo5Y",
+                    "type": "block",
+                    "title": null,
+                    "titleEmphasis": false,
+                    "hash": null,
+                    "content": [
+                        {
+                            "imageName": "SVG Table",
+                            "caption1": null,
+                            "caption1color": "Black",
+                            "caption2": null,
+                            "caption2color": "Black",
+                            "caption3": null,
+                            "caption3color": "Black",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/5LnWJlD5u9MHNHeU4IvYTb/2fe9db6e71c9e8e86891ba52d3ecd248/SVG_Table.svg",
+                            "details": {
+                                "Size": 36306,
+                                "Image": {
+                                    "Height": 341,
+                                    "Width": 497
+                                }
+                            },
+                            "width": 497,
+                            "height": 341,
+                            "fileName": "SVG Table.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "image",
+                            "title": "SVG Table"
+                        },
+                        {
+                            "imageName": "SVG Table with Images",
+                            "caption1": null,
+                            "caption1color": "Black",
+                            "caption2": null,
+                            "caption2color": "Black",
+                            "caption3": null,
+                            "caption3color": "Black",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4WFF32wyny7OVSEax1WrKk/7badcb5cd4f575eafb0d42a22d3bff84/SVG_Table_with_Images.svg",
+                            "details": {
+                                "Size": 578284,
+                                "Image": {
+                                    "Height": 524,
+                                    "Width": 496
+                                }
+                            },
+                            "width": 496,
+                            "height": 524,
+                            "fileName": "SVG Table with Images.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "image",
+                            "title": "SVG Table with Images"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2IIW2MjR5yTLPGs507HIJR",
+            "title": "Comprehensive Examples - Reference",
+            "hash": "comprehensive-examples-reference",
+            "filters": [
+                {
+                    "key": "models",
+                    "values": [
+                        "rd-x-1e-a1"
+                    ]
+                }
+            ],
+            "children": [
+                {
+                    "id": "1KPLubnNEdXWHQDnuSkWWs",
+                    "type": "block",
+                    "title": "Reference Examples - UM Legend Reference",
+                    "titleEmphasis": false,
+                    "hash": "reference-examples-um-legend-reference",
+                    "content": [
+                        {
+                            "imageName": "Reference Examples - User Manual Legend Reference - English",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/3Bl2CtyUkIsVVUCWZ2YzH3/97637c0d11eeaad3b897eca08660e0a9/UM_Legend.png",
+                            "details": {
+                                "Size": 76211,
+                                "Image": {
+                                    "Height": 900,
+                                    "Width": 1800
+                                }
+                            },
+                            "width": 1800,
+                            "height": 900,
+                            "fileName": "UM Legend.png",
+                            "contentType": "image/png",
+                            "type": "image",
+                            "title": "Reference Examples - User Manual Legend Reference - English"
+                        }
+                    ]
+                },
+                {
+                    "id": "7sVwWi7dPEkgGgA8ksHigV",
+                    "type": "Legend",
+                    "title": "TC-Comprehensive Legend - Block",
+                    "titleEmphasis": false,
+                    "hash": "tc-comprehensive-legend-block_1",
+                    "content": [
+                        {
+                            "name": "Icon-Legend-Torque",
+                            "label": "Torque",
+                            "description": "Tighten a fastener to a specified value, or apply a tightening force.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/2hZQ04sjc6R7udw5qHf8K1/c1f417493d81c419d527d1c87a31f441/Torque.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Torque.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Icon-Legend-Torque"
+                        },
+                        {
+                            "name": "Icon-Legend-FrictionPaste",
+                            "label": "Friction Paste",
+                            "description": "Apply friction paste to prevent movement between surfaces.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/6naqYC6rj7cJYVVU45vbRf/b45efd62e1c96d7b4eae85c3f3fd39eb/FrictionPaste.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "FrictionPaste.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "FrictionPaste"
+                        },
+                        {
+                            "name": "Icon-Legend-Remove",
+                            "label": "Icon-Legend-Remove",
+                            "description": "Remove the component as indicated, either by hand or with a specified tool.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4DFOh5pmQNTVbYravB21Ne/bc0f7d589491205008af794bbc02a980/Remove.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Remove.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Remove"
+                        },
+                        {
+                            "name": "Icon-Legend-Install",
+                            "label": "Install",
+                            "description": "Install the component in the indicated position by pressing, attaching, or placing.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4XgIrBh0mPQEHME0IU7g1T/001c460f8476273a846ff612b64922af/Install.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Install.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Install"
+                        },
+                        {
+                            "name": "Icon-Legend-Measure",
+                            "label": "Measure",
+                            "description": "Measure a length or distance to a specified value.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/6LUMmwDM5JWF1ghzklouIH/2e80491f37efcfee6ada0c373f27a195/Measure.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Measure.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Measure"
+                        },
+                        {
+                            "name": "Icon-Legend-Grease",
+                            "label": "Grease",
+                            "description": "Apply grease to lubricate and protect components from friction and/or moisture.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4J2P0Sqh8fZqwuMNGXjZjG/9c32a43972c1dbaca92eeeec8ecab5af/Grease.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Grease.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Grease"
+                        },
+                        {
+                            "name": "Icon-Legend-Adjust",
+                            "label": "Adjust",
+                            "description": "Adjust the component to the indicated position by moving, sliding, or rotating.",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/ly7SW2e9WtBJT5Dm09Fe7/18c8f65efce219fa0db74c26bb2a4b31/Adjust.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Adjust.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Adjust"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6PhLdHcLsgrTPix0LkifpK",
+            "title": "Comprehensive Examples  - Other",
+            "hash": "comprehensive-examples-other",
+            "filters": [
+                {
+                    "key": "models",
+                    "values": [
+                        "ap-sbj-gvlm-a1",
+                        "ap-sbj-gvlw-a1",
+                        "ap-sbs-gvlw-a1",
+                        "ap-sbs-gvlm-a1"
+                    ]
+                },
+                {
+                    "key": "food",
+                    "values": [
+                        "potatoes",
+                        "gran-cru-cheese"
+                    ]
+                }
+            ],
+            "children": [
+                {
+                    "id": "7C1McQnmDWOxwZLJXAogyY",
+                    "type": "block",
+                    "title": "TechCom Demo - Block - Element - Code",
+                    "titleEmphasis": true,
+                    "hash": "techcom-demo-block-element-code",
+                    "content": []
+                },
+                {
+                    "id": "2AVKqAubbxgQXvaLJUp44Z",
+                    "type": "block",
+                    "title": "Comprehensive Examples - Exploded View",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-examples-exploded-view",
+                    "content": [
+                        {
+                            "imageName": "SRAM_iMotion_3.jpg",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/30WccHBGRzFnbsTcxyMf2a/cc88c3cd3143338110cda19990fef3e5/SRAM_iMotion_3.jpg",
+                            "details": {
+                                "Size": 125560,
+                                "Image": {
+                                    "Height": 731,
+                                    "Width": 795
+                                }
+                            },
+                            "width": 795,
+                            "height": 731,
+                            "fileName": "SRAM_iMotion_3.jpg",
+                            "contentType": "image/jpeg",
+                            "type": "image",
+                            "title": "sramimotion3"
+                        }
+                    ]
+                },
+                {
+                    "id": "5nqqtNUYgiqysaYXItWX0B",
+                    "type": "block",
+                    "title": "Comprehensive Examples - Reference Image",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-examples-reference-image",
+                    "content": [
+                        {
+                            "imageName": "i-3-coaster-groupshot-1551132982.jpg",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/44K291ZNDXTsqag9ZzEC6f/6351a1fdf887667081455521f331890b/i-3-coaster-groupshot-1551132982.jpg",
+                            "details": {
+                                "Size": 41039,
+                                "Image": {
+                                    "Height": 556,
+                                    "Width": 769
+                                }
+                            },
+                            "width": 769,
+                            "height": 556,
+                            "fileName": "i-3-coaster-groupshot-1551132982.jpg",
+                            "contentType": "image/jpeg",
+                            "type": "image",
+                            "title": "iMotion3 image"
+                        }
+                    ]
+                },
+                {
+                    "id": "9l0wlOvlFNRiItVq9qmBj",
+                    "type": "Legend",
+                    "title": "Comprehensive Examples - Legend",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-examples-legend",
+                    "content": [
+                        {
+                            "name": "SwippySwappy",
+                            "label": "Icon Label",
+                            "description": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/7fAReZAEFyYPtsNkskH5GZ/878fda9258e3e559280f892defd17064/Legend_Icon_-_Hold_and_Shift.svg",
+                            "details": {
+                                "Size": 398855,
+                                "Image": {
+                                    "Height": 12,
+                                    "Width": 31
+                                }
+                            },
+                            "width": 31,
+                            "height": 12,
+                            "fileName": "Legend Icon - Hold and Shift.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Legend Icon - Hold and Shift"
+                        }
+                    ]
+                },
+                {
+                    "id": "5wjVoMEc0dRPLZ8bOyb7Ra",
+                    "type": "block",
+                    "title": "Comprehensive Examples - Exploded View",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-examples-exploded-view_1",
+                    "content": [
+                        {
+                            "imageName": "SVG Table.svg",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/5LnWJlD5u9MHNHeU4IvYTb/2fe9db6e71c9e8e86891ba52d3ecd248/SVG_Table.svg",
+                            "details": {
+                                "Size": 36306,
+                                "Image": {
+                                    "Height": 341,
+                                    "Width": 497
+                                }
+                            },
+                            "width": 497,
+                            "height": 341,
+                            "fileName": "SVG Table.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "image",
+                            "title": "SVG Table"
+                        }
+                    ]
+                },
+                {
+                    "id": "2jpjYZxYWPdOn8YSpzzAXC",
+                    "type": "Legend",
+                    "title": "Comprehensive User Manual - Block Legend",
+                    "titleEmphasis": false,
+                    "hash": "comprehensive-user-manual-block-legend",
+                    "content": [
+                        {
+                            "name": "Legend Icon 01",
+                            "label": "Legend Icon - Hold and Shift",
+                            "description": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/7fAReZAEFyYPtsNkskH5GZ/878fda9258e3e559280f892defd17064/Legend_Icon_-_Hold_and_Shift.svg",
+                            "details": {
+                                "Size": 398855,
+                                "Image": {
+                                    "Height": 12,
+                                    "Width": 31
+                                }
+                            },
+                            "width": 31,
+                            "height": 12,
+                            "fileName": "Legend Icon - Hold and Shift.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Legend Icon - Hold and Shift"
+                        },
+                        {
+                            "name": "Measure",
+                            "label": "Measure",
+                            "description": "Measure the length or distance to a specified value",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/6ZyIKK6eBPSKPzcTDKPSbe/d9555cd5e72fc87d98687a40a474596c/Measure.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Measure.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Measure"
+                        },
+                        {
+                            "name": "Remove/Loosen",
+                            "label": "Remove/Loosen",
+                            "description": "Remove the component as indicated, either by hand or with a specified tool",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/7AxoJ6yjKkkEFj3PUT8ByX/6db7b44cf3e5fdd5493c376a3ed20673/Remove.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Remove.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Remove"
+                        },
+                        {
+                            "name": "Torque",
+                            "label": "Torque",
+                            "description": "Tighten a faster to a specified value, or apply a tightening force",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/3do39Xfyzxf953rLmRNjPi/b168eb7c6f236336df97de974b9d5301/Torque.svg",
+                            "details": {
+                                "Size": 275,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 21
+                                }
+                            },
+                            "width": 21,
+                            "height": 18,
+                            "fileName": "Torque.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Torque"
+                        }
+                    ]
+                },
+                {
+                    "id": "3Ql5Mvs5Wn5fdiOKvnJpYg",
+                    "type": "toolList",
+                    "title": "Tool List",
+                    "titleEmphasis": false,
+                    "hash": "tool-list",
+                    "content": [
+                        {
+                            "name": "Socket",
+                            "label": "Socket",
+                            "description": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/5TJo2yRbOI8o0ndKcso7Od/651a386469b70ea40b5494e20e65fa4c/icon_-_Socket.svg",
+                            "details": {
+                                "Size": 1815,
+                                "Image": {
+                                    "Height": 20,
+                                    "Width": 20
+                                }
+                            },
+                            "width": 20,
+                            "height": 20,
+                            "fileName": "icon - Socket.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Socket"
+                        },
+                        {
+                            "name": "TORX",
+                            "label": "TORX",
+                            "description": "Use this for loosening Stuff",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/7fbjcy0zIPuhPm5rLLgvfI/4a2b9ea29592499a3b361f0b4c408b5d/icon_-_TORX.svg",
+                            "details": {
+                                "Size": 391,
+                                "Image": {
+                                    "Height": 19,
+                                    "Width": 22
+                                }
+                            },
+                            "width": 22,
+                            "height": 19,
+                            "fileName": "icon - TORX.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "TORX"
+                        },
+                        {
+                            "name": "Wrench Closed End",
+                            "label": "Friction Paste",
+                            "description": "Friction is good for speed",
+                            "url": "//images.ctfassets.net/enhz2tloa31p/5fpUJNWOOGLBj621sD5z9/32835de7bd70ac6f2d1a9697537c9122/icon_-_Wrench_Closed_End.svg",
+                            "details": {
+                                "Size": 433,
+                                "Image": {
+                                    "Height": 18,
+                                    "Width": 41
+                                }
+                            },
+                            "width": 41,
+                            "height": 18,
+                            "fileName": "icon - Wrench Closed End.svg",
+                            "contentType": "image/svg+xml",
+                            "type": "icon",
+                            "title": "Wrench Closed End"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2aeGrayln6LOgdMonn9tJK",
+            "title": "Comprehensive Examples - Reusable Blocks",
+            "hash": "comprehensive-examples-reusable-blocks",
+            "filters": [],
+            "children": [
+                {
+                    "id": "6icodkOzt1aJeyXpo2d7PD",
+                    "type": "block",
+                    "title": "ALL BRANDS - Trademarks Page",
+                    "titleEmphasis": false,
+                    "hash": "all-brands-trademarks-page",
+                    "content": [
+                        {
+                            "step": "NotAStep",
+                            "content": "<p><strong>These are registered trademarks of SRAM, LLC:</strong> </p><p>1:1&#174;, Accuwatt&#174;, Avid&#174;, ATAC&#174;, AXS&#174;, Bar&#174;, Bioposition&#174;, Blackbox&#174;, BoXXer&#174;, DoubleTap&#174;, eTap&#174;, Firecrest&#174;, Firex&#174;, Grip Shift&#174;, GXP&#174;, Holzfeller&#174;, Hussefelt&#174;, Iclic&#174;, i‑Motion&#174;, Judy&#174;, Know Your Powers&#174;, NSW&#174;, Omnium&#174;, Osmos&#174;, Pike&#174;, PowerCal&#174;, PowerLock&#174;, PowerTap&#174;, Qollector&#174;, Quarq&#174;, RacerMate&#174;, Reba&#174;, Rock Shox&#174;, Ruktion&#174;, Service Course&#174;, ShockWiz&#174;, SID&#174;, Single Digit&#174;, Speed Dial&#174;, Speed Weaponry&#174;, Spinscan&#174;, SRAM&#174;, SRAM APEX&#174;, SRAM EAGLE&#174;, SRAM FORCE&#174;, SRAM RED&#174;, SRAM RIVAL&#174;, Stylo&#174;, TIME&#174;, Truvativ&#174;, TyreWiz&#174;, UDH&#174;, Varicrank&#174;, Velotron&#174;, X0&#174;, X01&#174;, X‑SYNC&#174;, XX1&#174;, Zipp&#174; </p><p><strong>These are registered logos of SRAM, LLC:</strong></p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "Registered Trademark Names"
+                        },
+                        {
+                            "imageName": "Trademarks.PNG",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/3UU2PJ151uGOr4MC7VXx9c/ed8f0240e613f4bdd1d383c307a16478/Trademarks.PNG",
+                            "details": {
+                                "Size": 27513,
+                                "Image": {
+                                    "Height": 246,
+                                    "Width": 1231
+                                }
+                            },
+                            "width": 1231,
+                            "height": 246,
+                            "fileName": "Trademarks.PNG",
+                            "contentType": "image/png",
+                            "type": "image",
+                            "title": "Trademarks.PNG"
+                        },
+                        {
+                            "step": "NotAStep",
+                            "content": "<p><strong>These are trademarks of SRAM:</strong></p><p>10K™, 1X™, 202™, 30™, 30&#160;Course™, 35™, 302™, 303™, 353™, 404™, 454™, 808™, 858™, 3ZERO&#160;MOTO™ , ABLC™, AeroGlide™, AeroBalance™, AeroLink™, Airea™, Air&#160;Guides™, AirWiz™, AKA™, AL‑7050‑TV™, Atmos™, Automatic&#160;Drive™, AxCad™, Axial&#160;Clutch™, Base™, BB5™, BB7™, BB30™, Bleeding&#160;Edge™, Blipbox™, BlipClamp™, BlipGrip™, Blips™, Bluto™, Bottomless&#160;Tokens™, Cage&#160;Lock™, Carbon&#160;Bridge™, Centera™, Charger&#160;2™, Charger™, Charger&#160;Race&#160;Day™, Cleansweep™, Clickbox&#160;Technology™, Clics™, Code™, Cognition™, CoLab™, Connectamajig™, Counter&#160;Measure™, CYCLO™, DB8™, DD3™, DD3&#160;Pulse™, DebonAir™, Deluxe™, Deluxe&#160;Re:Aktiv™, Descendant™, DFour™, DFour91™, DH™, Dig&#160;Valve™, DirectLink™, Direct&#160;Route™, Domain™, DOT&#160;5.1™, Double&#160;Decker™, Double&#160;Time™, Dual&#160;Flow&#160;Adjust™, Dual&#160;Position&#160;Air™, DUB™, DUB‑PWR™, DZero™, E300™, E400™, Eagle™, E‑Connect4™, ErgoBlade™, ErgoDynamics™, ESP™, EX1™, Exact&#160;Actuation™, Exogram™, Flight&#160;Attendant™ , Flow&#160;Link™, FR‑5™, Full&#160;Pin™, G2™, G40™, Giga&#160;Pipe™, Gnar&#160;Dog™, Guide™, GS™, GX™, Hammerhead™, Hard&#160;Chrome™, Hexfin™, HollowPin™, Howitzer™, HRD™, Hybrid&#160;Drive™, Hyperfoil™, i‑3™, Impress™, Jaws™, Jet™, Kage™, Karoo™, Komfy™, LINK™, Lyrik™, MatchMaker™, Maxle™, Maxle&#160;360™, Maxle&#160;DH™, Maxle&#160;Lite™, Maxle&#160;Lite DH™, Maxle&#160;Stealth™, Maxle&#160;Ultimate™, MicroAdjust™, Micro&#160;Gear&#160;System™, Mini&#160;Block™, Mini&#160;Cluster™, Monarch™, Monarch&#160;Plus™, Motion&#160;Control™, Motion&#160;Control&#160;DNA™, MRX™, MX™, Noir™, NX™, OCT™, OmniCal™, OneLoc™, Paceline™, Paragon™, PC‑1031™, PC‑1110™, PC‑1170™, PG‑1130™, PG‑1050™, PG‑1170™, Piggyback™, Poploc™, Power&#160;Balance™, Power&#160;Bulge™, PowerChain™, PowerDomeX™, Powered&#160;by&#160;SRAM™, PowerGlide™, PowerLink™, Power&#160;Pack™, Power&#160;Spline™, Predictive&#160;Steering™, Pressfit™, Pressfit&#160;30™, Prime™, Qalvin™, R2C™, Rapid&#160;Recovery™, Re:Aktiv&#160;ThruShaft™, Recon™, Reverb™, Revelation™, Riken™, Roller&#160;Bearing&#160;Clutch™, Rolling&#160;Thunder™, RS‑1™, Rush™,&#160;RXS™, Sag&#160;Gradients™, Sawtooth™, SCT ‑ Smart&#160;Coasterbrake&#160;Technology, Seeker™, Sektor™, SHIFT™, ShiftGuide™, Shorty™, Showstopper™, SIDLuxe™, Side&#160;Swap™, Signal&#160;Gear&#160;Technology™, SL™, SL‑70™, SL‑70&#160;Aero™, SL‑70&#160;Ergo™, SL‑80™, Sl‑88™, SLC2™, SL&#160;SPEED™, SL&#160;Sprint™, Smart&#160;Connect™, Solo&#160;Air™, Solo&#160;Spoke™, Speciale™, SpeedBall™, Speed&#160;Metal™, SRAM&#160;APEX&#160;1™, SRAM&#160;Force&#160;1™, SRAM&#160;RIVAL&#160;1™, S‑series™, Stealth‑a‑majig™, StealthRing™, Super‑9™, Supercork™, Super&#160;Deluxe™, Super&#160;Deluxe&#160;Coil™, SwingLink™, SX™, Tangente™, TaperCore™, Timing&#160;Port&#160;Closure™, TSE&#160;Technology™, Tool‑free&#160;Reach&#160;Adjust™, Top&#160;Loading&#160;Pads™, Torque&#160;Caps™, TRX™, Turnkey™, TwistLoc™, VCLC™, Vivid™, Vivid&#160;Air™, Vuka&#160;Aero™, Vuka&#160;Alumina™, Vuka&#160;Bull™, Vuka&#160;Clip™, Vuka&#160;Fit™, Wide&#160;Angle™, WiFLi™, X1™, X3™, X4™, X5™, X7™, X9™, X‑Actuation™, XC™, X‑Dome™, XD™, XDR™, XG‑1150™, XG‑1175™, XG‑1180™, XG‑1190™, X‑Glide™, X‑GlideR™, X‑Horizon™, XLoc Sprint™, XPLR™, XPRESSO™, XPRO™, X‑Range™, XX™, Yari™, ZEB™, Zero&#160;Loss™, ZM2™, ZR1™</p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "Trademarked Names"
+                        },
+                        {
+                            "imageName": "Trademarked Logos.PNG",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/4niZawprNPu207a6XJhXtb/4c03d8e5a53b23046852c9df9ce01839/Trademarked_Logos.PNG",
+                            "details": {
+                                "Size": 11954,
+                                "Image": {
+                                    "Height": 61,
+                                    "Width": 732
+                                }
+                            },
+                            "width": 732,
+                            "height": 61,
+                            "fileName": "Trademarked Logos.PNG",
+                            "contentType": "image/png",
+                            "type": "image",
+                            "title": "Trademarked Logos.PNG"
+                        },
+                        {
+                            "step": "NotAStep",
+                            "content": "<p>Specifications and colors subject to change without prior notice.</p><p>&#169; 2022 SRAM, LLC</p><p></p><p><strong>This publication includes trademarks and registered trademarks of the following companies: </strong></p><p>Park Tool&#174; is a registered trademark of Park Tool Co.</p><p>TORX&#174; is a registered trademark of Acument Intellectual Properties, LLC</p><p>LEVEL is a registered trademark of Kross S.A., seated in Przasnysz, Poland.</p><p>STABURAGS is a registered trademark of  Kl&#252;ber Lubrication M&#252;nchen KG.</p><p>Wheels Manufacturing&#174; is a registered trademark of Wheels Manufacturing Inc.</p><p>Boost™ is a trademark of the Trek Bicycle Corporation.</p><p>Loctite&#174; is a registered trademark of Henkel Corporation. 2760™ is trademark of the Henkel Corporation.</p><p>Maxima™ PLUSH™ is a trademark of Maxima Racing Oils.</p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "Other Registered Trademarks"
+                        }
+                    ]
+                },
+                {
+                    "id": "5BM1qAJp3aj64VCP8sxi1C",
+                    "type": "block",
+                    "title": "ALL BRANDS - General Safety",
+                    "titleEmphasis": false,
+                    "hash": "all-brands-general-safety",
+                    "content": [
+                        {
+                            "imageName": "RockShox - Safety First",
+                            "caption1": null,
+                            "caption1color": null,
+                            "caption2": null,
+                            "caption2color": null,
+                            "caption3": null,
+                            "caption3color": null,
+                            "url": "//images.ctfassets.net/enhz2tloa31p/5zQ6ENW3ShItdqPwfLdF1D/f410bf63f7857678af660fa74f1be5e3/Safety_First.jpg",
+                            "details": {
+                                "Size": 102027,
+                                "Image": {
+                                    "Height": 779,
+                                    "Width": 730
+                                }
+                            },
+                            "width": 730,
+                            "height": 779,
+                            "fileName": "Safety First.jpg",
+                            "contentType": "image/jpeg",
+                            "type": "image",
+                            "title": "RockShox - Safety First"
+                        },
+                        {
+                            "noticeType": "safety",
+                            "content": "<p>You must read and understand the Safety Instructions document included with your product before proceeding with installation. Improperly installed components are extremely dangerous and could result in severe and/or fatal injuries. If you have any questions about the installation of these components, consult a qualified bicycle mechanic.\n\n</p>",
+                            "type": "notice",
+                            "title": "Safety"
+                        }
+                    ]
+                },
+                {
+                    "id": "1GRshkvzfSisg1rc6SS3k7",
+                    "type": "block",
+                    "title": "ALL BRANDS - Warranty and Recalls Redirect",
+                    "titleEmphasis": false,
+                    "hash": "all-brands-warranty-and-recalls-redirect",
+                    "content": [
+                        {
+                            "step": "NotAStep",
+                            "content": "<p>For SRAM Warranty and Recall information, please visit:</p><p><div class=\"s-hyperLink\"><a href=\"https%3a%2f%2fwww.sram.com%2fen%2fservice%2fwarranty\">SRAM Warranty</a></div><p></p> and<div class=\"s-hyperLink\"><a href=\"https%3a%2f%2fwww.wikihow.com%2fRide-a-Bicycle\">How to ride a bike</a></div><p>Get ready to fall</p></p><p><div class=\"s-hyperLink\"><a href=\"https%3a%2f%2fwww.sram.com%2fen%2fservice%2frecalls\">SRAM Recalls</a></div><p></p></p>",
+                            "images": null,
+                            "type": "text",
+                            "title": "ALL BRANDS - Warranty and Recalls Redirect"
+                        },
+                        {
+                            "url": "https://yogabbagabba.fandom.com/wiki/Bikes_Are_Fun",
+                            "description": "Bikes are fun Fun FUn",
+                            "type": "externalRefrence",
+                            "title": "Hello"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

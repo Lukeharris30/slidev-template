@@ -1,6 +1,10 @@
-# Page 1
+---
+theme: none
+---
+# The UI Project
 
-Page 2 from main entry.
+<MyButton label="Sram Button"/>
+<Notice heading="It's a Special Notice" content="<p>With wonderful content</p>"/>
 
 ---
 src: ./subpage.md

@@ -23,14 +23,23 @@ drawings:
 css: unocss
 ---
 
-# Welcome to Slidev
+# Decoupling for Success
+<!-- <mdi-account-circle /> -->
+
+<carbon-user-favorite-alt-filled/>
+<!-- <carbon-bot /> -->
+<!-- <carbon-asset /> -->
+<carbon-bicycle/>
+<!-- <uim-rocket />
+<twemoji-cat-with-tears-of-joy />
+<logos-vue /> -->
 
 Presentation slides for developers
 
 <div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+  <!-- <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
+  </span> -->
 </div>
 
 <div class="abs-br m-6 flex gap-2">
@@ -71,17 +80,17 @@ You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
 
-<style>
+<!-- <style>
 h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-color: var(--sram-accent__background);
+  background-image: linear-gradient(45deg, var(--brand-color-primary), #fff);
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
 }
-</style>
+</style> -->
 
 ---
 

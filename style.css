@@ -1,0 +1,13 @@
+.slidev-layout {
+    h1 {
+        text-transform: initial;
+        color: var(--heading-color-dark);
+       + p {
+        opacity: 1;
+       }
+    }
+    p {
+        color: var(--text-color-dark);
+    }
+}
+
